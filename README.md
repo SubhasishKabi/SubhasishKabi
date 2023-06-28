@@ -1,6 +1,6 @@
 ![MasterHead](https://imgs.search.brave.com/ad2SfY1RsQ495kFVfJ_sZc9jfo_Emb870CLc4FfwDDg/rs:fit:1200:331:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwLzZjMGY5/Yjk1NzQ2MTUxLjVl/OWVjZGU2OTU5OWUu/Z2lm.gif)
 <h1 align="center">Hi 👋, I'm Subhasish Kabi</h1>
-<h3 align="center">A passionate banckend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img aligh="right" alt="coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhasishkabi&label=Profile%20views&color=0e75b6&style=flat" alt="subhasishkabi" /> </p>
